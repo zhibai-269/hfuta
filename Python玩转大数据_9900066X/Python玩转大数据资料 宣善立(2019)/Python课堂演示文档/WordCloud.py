@@ -43,7 +43,9 @@ JbDict = "/".join(JbText)
 
 myImg = Plt.imread(r'd:\resource\timg11.jpg')
 
-myWordCloud = WCloud(font_path=r"D:\resource\FZXKTJW.ttf", background_color='white',max_font_size=100,max_words=2000,mask = myImg)
+myWordCloud = WCloud(font_path=r"D:\resource\FZXKTJW.ttf", 
+    background_color='white',max_font_size=100,max_words=2000,
+    mask = myImg)
 myWordCloud.generate(JbDict)
 
 myImg_color = ImgCG(myImg)
