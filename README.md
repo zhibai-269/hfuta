@@ -7,6 +7,8 @@
 [![CONTACTUS](
 https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:libbot@protonmail.com)
 
+![lib-hfut 贵校课程资料民间整理](https://github.com/libbot-hfut/.lib-hfut/blob/master/lib-hfut-graph/repository-open-graph.png)
+
 ## Catalogue
 
 >__[引言](#Preface)__
