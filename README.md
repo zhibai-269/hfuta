@@ -1,6 +1,6 @@
 # lib-hfut 贵校课程资料民间整理
 
-[![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-%354e3f.svg?style=flat-square)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-354e3f.svg?style=flat-square)](LICENSE)
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
 [![CONTRIBUTORS](https://img.shields.io/badge/Contributor-4-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
 [![DOWNLOAD](https://img.shields.io/badge/Size-896MB-%23FF4D5B.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
