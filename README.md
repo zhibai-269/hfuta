@@ -7,8 +7,6 @@
 [![CONTACTUS](
 https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:libbot@protonmail.com)
 
-![lib-hfut](https://github.com/libbot-hfut/.lib-hfut/blob/master/lib-hfut-graph/readme-graph.png)
-
 ## Catalogue
 
 >__[ÒıÑÔ](#Preface)__
