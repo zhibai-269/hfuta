@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
 [![CONTRIBUTORS](https://img.shields.io/badge/Contributor-7-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
-[![DOWNLOAD](https://img.shields.io/badge/Size-1.38GB-%23FF4D5B.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
+[![DOWNLOAD](https://img.shields.io/badge/Size-1.40GB-%23FF4D5B.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
 [![CONTACTUS](
 https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:libbot@protonmail.com)
 
@@ -69,13 +69,18 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 *机器人课很多平时很忙, 没有时间协助上传者整理资源。提交前请先检查内容是否存在以下几种典型错误。防止因机器人拒绝PR请求导致资源无法合并到仓库。*
 
 - **上传规则:**
-GitHub平台上传规则为 `单个上传文件小于25MB(网页端)` 和 `单次上传文件总数小于100个` 。若要上传大于此限制的的单个文件可以压缩后发送文件至邮箱 `libbot@protonmail.com` 由@libbot-hfut代为上传。仓库已开启LFS, 但当前仓库的LFS免费空间已满，增加额外空间需要额外成本。为了保持仓库的非盈利状态以维持独立运营，因此`推荐`最大单个文件的大小不大于100MB。
+     - GitHub平台上传规则为 `单个上传文件小于25MB(网页端)` 和 `单次上传文件总数小于100个` 。若要上传大于此限制的的单个文件可以压缩后发送文件至邮箱 `libbot@protonmail.com` 由@libbot-hfut代为上传。
+
+     - 仓库已开启LFS, 但当前仓库的LFS免费空间已满，增加额外空间需要额外成本。为了保持仓库的非盈利状态以维持独立运营，因此`推荐`最大单个文件的大小不大于100MB。
 
 - **命名规则:**
+
      - _文件夹/目录命名:_
-     根目录命名 `[课程名称_课程代码]` , 根目录下级子目录命名 `[课程名称+资源类型+(教师姓名)]` 的命名规则进行归档。参考书籍/参考答案请直接放在根目录中, 不需要进行分类。
+
+          根目录命名 `[课程名称_课程代码]` , 根目录下级子目录命名 `[课程名称+资源类型+(教师姓名)+(课件年份)]` 的命名规则进行归档。参考书籍/参考答案请直接放在根目录中, 不需要进行分类。
      - _文件命名:_
-     上传的文件需按照 `[课程名称+资源类型+(日期)]` 命名, 若为时效资料(试卷等)应在文件名内注明日期。
+
+          上传的文件需按照 `[课程名称+资源类型+(日期)]` 命名, 若为时效资料(试卷等)应在文件名内注明日期。
 
 - **课程结构示意图**
      每门课程大致结构如下，有些课程的子目录可能没有添加，可自行添加合理的子目录。
