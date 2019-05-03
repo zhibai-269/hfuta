@@ -1,4 +1,25 @@
-# lib-hfut - 贵校课程资料民间整理
+# lib-hfut 贵校课程资料民间整理
+
+<p align="center">
+<a href="License"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"></a>
+<a href="https://github.com/lib-hfut"><img src="https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square" alt="License"></a>
+<a href="https://github.com/lib-hfut/lib-hfut/graphs/contributors"><img src="https://img.shields.io/badge/Contributor-2-1cc.svg?style=flat-square" alt="Contributor"></a>
+<a href="https://github.com/lib-hfut/lib-hfut/archive/master.zip"><img src="https://img.shields.io/badge/Size-524MB-red.svg?style=flat-square" alt="Download"></a>
+</p>
+
+## Catalogue
+
+>__[引言](#Preface)__
+>
+>__[使用方法](#Usage)__
+>
+>__[参与贡献](#Contribution)__
+>
+>__[声明](#Disclaimer)__
+>
+>__[协议](#License)__
+>
+>__[相关项目](#Related Works)__
 
 ## Preface
 
@@ -38,33 +59,44 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-对于课程的评价可写在对应课程文件夹的 `README.md` 中。如果想上传资料（请确保无版权问题），推荐使用 PDF 格式，避免系统差。
+对于课程的相关评价可写在对应课程文件夹的 `README.md` 中。如果想上传资料（请确保无版权问题），推荐使用 PDF 格式，避免系统差。
+
+>**特别注意!!**
+>
+>**上传的资料需按照标准课程名称命名, 并且按照`[课程名称+资源类型+(教师姓名)]`等进行归档分类。参考书籍/参考答案请直接放在根文件夹中, 不需要再进行分类。**
+>
+>**资源最好是`近 5 年内`的, 年代久远的资料并不能发挥太大作用。**
+>
 
 由于本项目体积很大，故推荐采用在 **GitHub Web 端直接上传** 的方式，具体操作如下：
 
-1. 首先 Fork 本项目
+    1. 首先 Fork 本项目(复制到我的仓库)
 
-2. - 上传文件到已有文件夹：打开对应文件夹，点击绿色 Download 按钮旁的 upload，上传你的文件。
+    2. 上传文件 / 文件夹
+       i)  上传文件到已有文件夹：
+            打开对应文件夹，点击Upload，上传你的文件。
 
-   - 上传文件到新文件夹：打开任意文件夹，点击绿色 Download 按钮旁的 upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
+       ii) 上传文件到新文件夹：
+            打开任意文件夹，点击Upload，把网页地址中的文件夹名称改为你想要新建的文件夹名称，回车，上传你的文件。
 
-3. - 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
+    3. 提交 Pull Request, 等待机器人libbot审核。
+    要留意一下项目的文件组织喔。
 
-**如果你想进行不具名上传，也可以发送邮件至 `libbot@protonmail.com`。仓库的维护者将会通过机器人进行不具名添加。**
+**如果你可以发送邮件至 `libbot@protonmail.com`。仓库的维护者将会通过机器人进行不具名添加。**
 
 ## Disclaimer
 
 这里不是合肥工业大学图书馆。我们也不对项目中信息的准确性或真实性做任何承诺。
 
-*如果有侵权情况，麻烦您发送相关说明至 `libbot@protonmail.com`。带来不便还请您谅解。*
+**如果有侵权情况，麻烦您发送相关说明至 `libbot@protonmail.com`。带来不便还请您谅解。**
 
 ## License
 
-**本仓库采用并遵守CC0-1.0协议。**
+**本仓库采用并遵守`CC0-1.0协议`。**
 
-仓库中的所有资料均来自网络，相关权利由原作者所有。本仓库仅用于收集现有资料。
+**仓库中的所有资料均来自网络，相关权利由原作者所有。本仓库仅用于收集现有资料。**
 
-我们不会为收集到的资料收费，或是尝试收取捐赠。如果你为本仓库支付过费用，请立即退款。
+**我们不会为收集到的资料收费，或是尝试收取捐赠。如果你为本仓库支付过费用，请立即退款。**
 
 ## Related Works
 
