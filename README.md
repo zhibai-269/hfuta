@@ -1,11 +1,9 @@
 # lib-hfut 贵校课程资料民间整理
 
-<p align="center">
-<a href="License"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"></a>
-<a href="https://github.com/lib-hfut"><img src="https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square" alt="License"></a>
-<a href="https://github.com/lib-hfut/lib-hfut/graphs/contributors"><img src="https://img.shields.io/badge/Contributor-2-1cc.svg?style=flat-square" alt="Contributor"></a>
-<a href="https://github.com/lib-hfut/lib-hfut/archive/master.zip"><img src="https://img.shields.io/badge/Size-524MB-red.svg?style=flat-square" alt="Download"></a>
-</p>
+[![LICENSE](https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square)](LICENSE)
+[![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
+[![CONTRIBUTORS](https://img.shields.io/badge/Contributor-2-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
+[![DOWNLOAD](https://img.shields.io/badge/Size-524MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
 
 ## Catalogue
 
@@ -19,7 +17,7 @@
 >
 >__[协议](#License)__
 >
->__[相关项目](#Related Works)__
+>__[相关项目](#RelatedWorks)__
 
 ## Preface
 
@@ -98,7 +96,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 **我们不会为收集到的资料收费，或是尝试收取捐赠。如果你为本仓库支付过费用，请立即退款。**
 
-## Related Works
+## RelatedWorks
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
