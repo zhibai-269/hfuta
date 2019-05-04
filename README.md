@@ -1,6 +1,6 @@
 # lib-hfut 贵校课程资料民间整理
 
-[![LICENSE](https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
 [![CONTRIBUTORS](https://img.shields.io/badge/Contributor-2-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
 [![DOWNLOAD](https://img.shields.io/badge/Size-524MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
@@ -105,7 +105,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## License
 
-**本仓库采用并遵守`CC0-1.0协议`。**
+**本仓库采用并遵守`CC-BY-4.0协议`。**
 
 **仓库中的所有资料均来自网络，相关权利由原作者所有。本仓库仅用于收集现有资料。**
 
