@@ -126,7 +126,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ---
 
-<p align="center">Your Comtribution matters.</p>
+<p align="center">Your Contribution matters.</p>
 
 ---
 
