@@ -2,8 +2,8 @@
 
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
-[![CONTRIBUTORS](https://img.shields.io/badge/Contributor-2-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
-[![DOWNLOAD](https://img.shields.io/badge/Size-656MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
+[![CONTRIBUTORS](https://img.shields.io/badge/Contributor-3-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
+[![DOWNLOAD](https://img.shields.io/badge/Size-682MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
 
 ## Catalogue
 
