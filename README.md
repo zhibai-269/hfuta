@@ -4,6 +4,8 @@
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
 [![CONTRIBUTORS](https://img.shields.io/badge/Contributor-3-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
 [![DOWNLOAD](https://img.shields.io/badge/Size-682MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
+[![CONTACTUS](
+https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:libbot@protonmail.com)
 
 ## Catalogue
 
