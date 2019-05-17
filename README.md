@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/License-CC--BY--4.0-green.svg?style=flat-square)](LICENSE)
 [![LIB-HFUT](https://img.shields.io/badge/lib--hfut-贵校课程资料民间整理-yellow.svg?style=flat-square)](https://github.com/lib-hfut)
 [![CONTRIBUTORS](https://img.shields.io/badge/Contributor-4-1cc.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/graphs/contributors)
-[![DOWNLOAD](https://img.shields.io/badge/Size-807MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
+[![DOWNLOAD](https://img.shields.io/badge/Size-826MB-red.svg?style=flat-square)](https://github.com/lib-hfut/lib-hfut/archive/master.zip)
 [![CONTACTUS](
 https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:libbot@protonmail.com)
 
